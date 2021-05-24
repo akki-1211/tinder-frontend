@@ -1,0 +1,25 @@
+[debug] [2021-05-24T17:07:40.770Z] ----------------------------------------------------------------------
+[debug] [2021-05-24T17:07:40.772Z] Command:       E:\Program Files (x86)\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-05-24T17:07:40.772Z] CLI Version:   9.11.0
+[debug] [2021-05-24T17:07:40.772Z] Platform:      win32
+[debug] [2021-05-24T17:07:40.773Z] Node Version:  v14.17.0
+[debug] [2021-05-24T17:07:40.774Z] Time:          Mon May 24 2021 22:37:40 GMT+0530 (India Standard Time)
+[debug] [2021-05-24T17:07:40.774Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-05-24T17:07:40.782Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-05-24T17:07:40.782Z] > authorizing via signed-in user (parekhakshat3112@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\Users\HP\Documents\React\Tinder Clone\tinder-clone
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
